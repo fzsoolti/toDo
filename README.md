@@ -1,5 +1,5 @@
 # toDo
-EJS, NodeJS, MongoDB
+EJS, express, MongoDB
 
 $mongod
 
